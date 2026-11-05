@@ -140,7 +140,6 @@ https://inbi-e53a1-default-rtdb.firebaseio.com
 https://jamun-97715-default-rtdb.firebaseio.com
 https://kanha-3bf53-default-rtdb.firebaseio.com
 https://karma6715sa-default-rtdb.firebaseio.com
-https://sanj-cf177-default-rtdb.firebaseio.com
 https://govt-2rto-default-rtdb.firebaseio.com
 https://boi-8daeb-default-rtdb.firebaseio.com
 https://biru-40e1f-default-rtdb.firebaseio.com
