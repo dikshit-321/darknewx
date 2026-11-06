@@ -1,4 +1,3 @@
-https://sanj-cf177-default-rtdb.firebaseio.com
 https://ravi-b593e-default-rtdb.firebaseio.com
 https://hardik-5a170-default-rtdb.firebaseio.com
 https://govt-2rto-default-rtdb.firebaseio.com
